@@ -102,7 +102,8 @@ These screenshots provide a visual overview of how the system looks and operates
 
 🔐  Login Page – Secure login for admin users or the students  the login 
 
- ![Screenshot 2025-06-30 155003](https://github.com/user-attachments/assets/a3374711-ce29-4664-b7ba-c468ebff311f)
+ ![Screenshot 2025-06-30 155003](https://github.com/user-attachments/assets/c912fae0-6911-4b7d-bac1-3882fd7db73d)
+ 
 
  📄 Book Listing Page – View all available books in the library
 
