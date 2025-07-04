@@ -107,19 +107,23 @@ These screenshots provide a visual overview of how the system looks and operates
 
  📄 Book Listing Page – View all available books in the library
 
- ![Screenshot 2025-06-30 155412](https://github.com/user-attachments/assets/0505e49e-044b-4e00-854d-8918f32a2703)
+ ![Screenshot 2025-06-30 155412](https://github.com/user-attachments/assets/18a22199-03e3-4ed5-baf0-6f24bf8056db)
 
+  
  ✅ Issue/Return Page – Issue or return books with status tracking
 
- ![Screenshot 2025-06-30 155447](https://github.com/user-attachments/assets/50f8ab55-8ae7-410d-a02a-7d3bee7081c5)
+![Screenshot 2025-06-30 155447](https://github.com/user-attachments/assets/9ed24912-0c1c-4544-864f-815da112f2db)
+
 
 📚 Book Management Panel – Interface to add, update, or delete books
 
-![Screenshot 2025-07-01 080419](https://github.com/user-attachments/assets/7012a741-6aff-453f-a299-434c75a9202b)
+![Screenshot 2025-07-01 080419](https://github.com/user-attachments/assets/7e6ec250-c993-4a22-a496-21e81480c4c6)
+
 
 🧾 Database View (phpMyAdmin) – Shows structure of admin and book tables
 
-![Screenshot 2025-07-01 080334](https://github.com/user-attachments/assets/9bc8efdf-9f1b-4b7e-9b7c-9dcc4b1648c2)
+![Screenshot 2025-07-01 080334](https://github.com/user-attachments/assets/306ea42c-757a-4ea0-a72c-d1ba634f1fc8)
+
 
 ✅ Final Declaration
 This project titled “Online Library Management System” has been successfully developed using HTML, CSS, PHP, and MySQL. It fulfills the basic requirements of a digital library by allowing admins to manage book records efficiently through a secure web interface.
